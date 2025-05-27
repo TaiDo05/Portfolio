@@ -1,5 +1,4 @@
 import avatar from "./dnt.jpg";
-
 import AiAgency from "./ai-agency.png";
 import weather from "./weather.png";
 import workImgOne from "./work/workImgOne.jpg"
