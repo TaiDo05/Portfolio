@@ -7,7 +7,7 @@ import { BsTelephonePlusFill } from "react-icons/bs";
 import Resume from "./components/resume/Resume";
 import Projects from "./components/projects/Projects";
 import Contact from "./components/contact/Contact";
-import SideNav from "./components/home/sidenav/SideNav"
+import SideNav from "./components/home/sidenav/SideNav.jsx"
 import About from "./components/About/About";
 import Left from "./components/home/Left";
 
