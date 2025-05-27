@@ -8,7 +8,7 @@ import Resume from "./components/resume/Resume.jsx";
 import Projects from "./components/projects/Projects.jsx";
 import Contact from "./components/contact/Contact.jsx";
 import SideNav from "./components/home/sidenav/SideNav.jsx"
-import About from "./components/About/About.jsx";
+import About from "./components/about/About.jsx";
 import Left from "./components/home/Left.jsx";
 
 const Home = () => {
