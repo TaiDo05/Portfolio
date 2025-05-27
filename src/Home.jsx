@@ -8,8 +8,8 @@ import Resume from "./components/resume/Resume";
 import Projects from "./components/projects/Projects";
 import Contact from "./components/contact/Contact";
 import SideNav from "./components/home/sidenav/SideNav.jsx"
-import About from "./components/About/About";
-import Left from "./components/home/Left";
+import About from "./components/About/About.jsx";
+import Left from "./components/home/Left.jsx";
 
 const Home = () => {
   const [about, setAbout] = useState(true);
