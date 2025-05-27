@@ -4,9 +4,9 @@ import { FaUser, FaEnvelope } from "react-icons/fa";
 import { IoIosPaper } from "react-icons/io";
 import { MdWork, MdOutlineClose } from "react-icons/md";
 import { BsTelephonePlusFill } from "react-icons/bs";
-import Resume from "./components/resume/Resume";
-import Projects from "./components/projects/Projects";
-import Contact from "./components/contact/Contact";
+import Resume from "./components/resume/Resume.jsx";
+import Projects from "./components/projects/Projects.jsx";
+import Contact from "./components/contact/Contact.jsx";
 import SideNav from "./components/home/sidenav/SideNav.jsx"
 import About from "./components/About/About.jsx";
 import Left from "./components/home/Left.jsx";
